@@ -2,7 +2,7 @@
 
 import loaddictionary as ld
 
-word_list = ["nurses","run"]
+word_list = ["abbe","ebb"]
 palindrom_list = []
 for word in word_list:
     end = len(word)
